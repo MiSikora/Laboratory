@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":inspector:dokkaHtml/androidTest": [], ":inspector:dokkaHtml/androidTestDebug": [], ":inspector:dokkaHtml/androidTestRelease": [], ":inspector:dokkaHtml/debug": [], ":inspector:dokkaHtml/main": [], ":inspector:dokkaHtml/release": [], ":inspector:dokkaHtml/testDebug": []}'
